@@ -5,3 +5,4 @@ def prime? (n)
     false
   end
 end
+
