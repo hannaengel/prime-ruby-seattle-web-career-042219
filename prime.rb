@@ -7,5 +7,3 @@ def prime? (n)
     end
   end
 end
-
-
